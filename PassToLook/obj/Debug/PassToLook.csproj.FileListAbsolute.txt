@@ -1,0 +1,10 @@
+E:\passtolook\PassToLook\PassToLook\bin\Debug\PassToLook.exe.config
+E:\passtolook\PassToLook\PassToLook\obj\Debug\PassToLook.Form1.resources
+E:\passtolook\PassToLook\PassToLook\obj\Debug\PassToLook.Properties.Resources.resources
+E:\passtolook\PassToLook\PassToLook\obj\Debug\PassToLook.csproj.GenerateResource.Cache
+E:\passtolook\PassToLook\PassToLook\bin\Debug\PassToLook.exe
+E:\passtolook\PassToLook\PassToLook\bin\Debug\PassToLook.pdb
+E:\passtolook\PassToLook\PassToLook\obj\Debug\PassToLook.exe
+E:\passtolook\PassToLook\PassToLook\obj\Debug\PassToLook.pdb
+E:\passtolook\PassToLook\PassToLook\bin\Debug\MySql.Data.dll
+E:\passtolook\PassToLook\PassToLook\obj\Debug\PassToLook.csprojResolveAssemblyReference.cache
